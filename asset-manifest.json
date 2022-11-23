@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/React-App-1/static/css/main.104ebb10.css",
+    "main.js": "/React-App-1/static/js/main.562cb53a.js",
+    "static/js/787.32032a02.chunk.js": "/React-App-1/static/js/787.32032a02.chunk.js",
+    "static/media/SEGA.TTF": "/React-App-1/static/media/SEGA.8a619f32417a0fe72728.TTF",
+    "index.html": "/React-App-1/index.html",
+    "main.104ebb10.css.map": "/React-App-1/static/css/main.104ebb10.css.map",
+    "main.562cb53a.js.map": "/React-App-1/static/js/main.562cb53a.js.map",
+    "787.32032a02.chunk.js.map": "/React-App-1/static/js/787.32032a02.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.104ebb10.css",
+    "static/js/main.562cb53a.js"
+  ]
+}
