@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css?family=Sono');
+
+.card{
+	background-color: rgba(255, 255, 255, 0.1);
+	color: lightgreen;
+	font-family:Sono;
+}
+
+
+

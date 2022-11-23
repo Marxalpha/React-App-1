@@ -1,0 +1,19 @@
+@font-face {
+    font-family: Sega;
+    src: url(SEGA.TTF);
+}
+
+.p{
+	z-index: -1;
+}
+
+.sbox
+{	
+	z-index: 10;
+	background-color: transparent;
+	color: green;
+}
+.ss{
+	font-family: Sega;
+	color: blue;
+}
